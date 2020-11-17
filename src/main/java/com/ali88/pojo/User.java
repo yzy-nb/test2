@@ -6,4 +6,6 @@ package com.ali88.pojo;
  */
 public class User {
     private String username;
+    private int age;
+
 }
