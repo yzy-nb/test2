@@ -8,5 +8,5 @@ public class User {
     private String username;
     private int age;
     private String address;
-    private String pwd;
+    private String pwdes;
 }
